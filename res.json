@@ -1,0 +1,56 @@
+{
+   "gender": "female",
+   "name": {
+      "title": "Miss",
+      "first": "Ariadna",
+      "last": "Casanova"
+   },
+   "location": {
+      "street": {
+         "number": 8848,
+         "name": "Perif\u00e9rico Sinaloa"
+      },
+      "city": "Los Ayala",
+      "state": "Durango",
+      "country": "Mexico",
+      "postcode": 83744,
+      "coordinates": {
+         "latitude": "27.2119",
+         "longitude": "115.1365"
+      },
+      "timezone": {
+         "offset": "+7:00",
+         "description": "Bangkok, Hanoi, Jakarta"
+      }
+   },
+   "email": "ariadna.casanova@example.com",
+   "login": {
+      "uuid": "232cec74-d4fa-4d4a-89b8-84a2ba81df6c",
+      "username": "orangeleopard342",
+      "password": "resident",
+      "salt": "q9NZqOVK",
+      "md5": "eb8e100466b496a7aeabbbc4dfa545e4",
+      "sha1": "ac34c64e30817b4ba6d371c8b8a9f529651fad1f",
+      "sha256": "222c36276926b15b7a3fcba43864096dfd499dd77c909d9ac4abcddbc1fcd15b"
+   },
+   "dob": {
+      "date": "1980-03-27T01:22:30.581Z",
+      "age": 43
+   },
+   "registered": {
+      "date": "2005-03-23T09:12:37.101Z",
+      "age": 18
+   },
+   "phone": "(665) 089 4769",
+   "cell": "(639) 994 2180",
+   "id": {
+      "name": "NSS",
+      "value": "79 11 94 1122 9"
+   },
+   "picture": {
+      "large": "https://randomuser.me/api/portraits/women/71.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+   },
+   "nat": "MX"
+}
